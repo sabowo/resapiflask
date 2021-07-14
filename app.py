@@ -3,7 +3,7 @@ from werkzeug.wrappers import response
 from flask_restful import Resource, Api
 from flask_cors import CORS
 
-# inisiasi object flask
+# inisiasi object flask h
 app = Flask(__name__)
 
 # inisiasi object flask_restful
